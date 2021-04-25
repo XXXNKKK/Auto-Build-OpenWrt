@@ -19,7 +19,6 @@ sed -i '$a src-git kenzo https://github.com/kenzok8/small-package' feeds.conf.de
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
 # Define My Package
-git clone https://github.com/fw876/helloworld.git package/lean/luci-app-hellow-plus
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome package/molun/luci-app-adguardhome
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/molun/luci-app-jd-dailybonus
 #git clone https://github.com/sirpdboy/luci-theme-opentopd package/molun/luci-theme-opentopd
